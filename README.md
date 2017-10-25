@@ -1,6 +1,3 @@
-# awesome-vue-plugin
-awesome vue plugin .
+# Awesome Vue Plugin
 
-<p class="btn btn-sm btn-primary">
-    Clone or download
-</p>
+
